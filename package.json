@@ -1,0 +1,24 @@
+{
+  "name": "blackjack.js",
+  "version": "1.0.0",
+  "description": "A simple blackjack server/client",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviscodesbugs/blackjack.js.git"
+  },
+  "author": "daviscodesbugs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/daviscodesbugs/blackjack.js/issues"
+  },
+  "homepage": "https://github.com/daviscodesbugs/blackjack.js#readme",
+  "dependencies": {
+    "cartesian-product": "^2.1.2",
+    "hapi": "^15.1.1"
+  }
+}
